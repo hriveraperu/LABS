@@ -4,7 +4,7 @@
 
 ## The main purpose for creating this is to showcase my TypeScript skills to my instructor and future employers.
 
-[Software Demo Video](Pending)
+[Software Demo Video](https://youtu.be/tCrlyIyfbTU)
 
 # Development Environment
 
